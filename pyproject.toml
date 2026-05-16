@@ -1,2 +1,3 @@
 [tool.dagster]
 module_name = "src.pipeline.definitions"
+working_directory = "."
